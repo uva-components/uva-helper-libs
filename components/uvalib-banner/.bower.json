@@ -1,0 +1,22 @@
+{
+  "name": "uvalib-banner",
+  "description": "Library web banner",
+  "main": "uvalib-banner.html",
+  "dependencies": {
+    "uvalib-elements": "uvalib-components/uvalib-elements#master"
+  },
+  "resolutions": {
+    "lodash": "^4.17.4",
+    "app-storage": "1 - 2"
+  },
+  "homepage": "https://github.com/uvalib-components/uvalib-banner",
+  "_release": "fe056c52e5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "fe056c52e5ae53cce9a9a596eb1a9c301d5962ef"
+  },
+  "_source": "https://github.com/uvalib-components/uvalib-banner.git",
+  "_target": "master",
+  "_originalSource": "uvalib-components/uvalib-banner"
+}

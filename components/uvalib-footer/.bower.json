@@ -1,0 +1,35 @@
+{
+  "name": "uvalib-footer",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "Footer for library pages.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "uvalib-footer.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "uvalib-elements": "uvalib-components/uvalib-elements#master"
+  },
+  "resolutions": {
+    "lodash": "^4.17.4",
+    "app-storage": "^0.10.0"
+  },
+  "_release": "99a1ef310a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "99a1ef310a2e8d08a4ad9e7409ae2e5a3abfd779"
+  },
+  "_source": "https://github.com/uvalib-components/uvalib-footer.git",
+  "_target": "master",
+  "_originalSource": "uvalib-components/uvalib-footer"
+}

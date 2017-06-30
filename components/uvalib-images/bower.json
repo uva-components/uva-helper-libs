@@ -1,0 +1,12 @@
+{
+  "name": "uvalib-images",
+  "description": "Used to present Library image resources given a uuid",
+  "main": "uvalib-image.html",
+  "dependencies": {
+    "uvalib-elements": "uvalib-components/uvalib-elements#master"
+  },
+  "resolutions": {
+    "lodash": "^4.17.4",
+    "app-storage": "^0.10.0"
+  }
+}

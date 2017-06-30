@@ -1,0 +1,21 @@
+{
+  "name": "uvalib-app",
+  "main": "uvalib-app.html",
+  "dependencies": {
+    "uvalib-elements": "uvalib-components/uvalib-elements#master"
+  },
+  "resolutions": {
+    "lodash": "^4.17.4",
+    "app-storage": "^0.10.0"
+  },
+  "homepage": "https://github.com/uvalib-components/uvalib-app",
+  "_release": "cc40206a2d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "cc40206a2d52d750de6f63dfdfca5c4c541bb97c"
+  },
+  "_source": "https://github.com/uvalib-components/uvalib-app.git",
+  "_target": "master",
+  "_originalSource": "uvalib-components/uvalib-app"
+}
