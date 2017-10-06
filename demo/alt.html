@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, user-scalable=yes">
     <script>
-      //Polymer = {dom: 'shadow'};
+      Polymer = {dom: 'shadow'};
 
       (function() {
         if ('registerElement' in document
@@ -19,15 +19,16 @@
     </script>
 
     <link rel="import" href="../uvalib-alt-page.html">
-
-    <style is="custom-style">
-      body {
-        margin:0;
-      }
-      .full {
-        max-width: 95%;
-      }
-    </style>
+    <custom-style>
+      <style is="custom-style">
+        body {
+          margin:0;
+        }
+        .full {
+          max-width: 95%;
+        }
+      </style>
+    </custom-style>
   </head>
   <body unresolved>
     <uvalib-alt-page root-path="/foobar/" title="Hello World" sub-title="A quick demo page"
