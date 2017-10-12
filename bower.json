@@ -19,5 +19,8 @@
   ],
   "dependencies": {
     "uva-elements": "uva-components/uva-elements#2.0"
+  },
+  "resolutions": {
+    "lodash": "^4.17.4"
   }
 }
