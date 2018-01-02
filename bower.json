@@ -19,9 +19,7 @@
   ],
   "dependencies": {
     "uva-elements": "uva-components/uva-elements#master",
-    "turfjs": "*"
-  },
-  "resolutions": {
-    "lodash": "^4.17.4"
+    "turfjs": "*",
+    "es6-promise": "^4.1.1"
   }
 }
