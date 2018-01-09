@@ -20,6 +20,7 @@
   "dependencies": {
     "uva-elements": "uva-components/uva-elements#master",
     "turfjs": "*",
-    "es6-promise": "^4.1.1"
+    "es6-promise": "^4.1.1",
+    "web-animations-js": "^2.3.1"
   }
 }
